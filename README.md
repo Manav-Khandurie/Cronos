@@ -14,7 +14,7 @@
 
 ### Architecture
 
-> > Still Working on that ⚒️
+![cronosarch drawio_227e4825](https://github.com/user-attachments/assets/841445ce-4b00-42a9-b5e8-e4212defa7b9)
 
 ### Contributing
 
